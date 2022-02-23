@@ -1,0 +1,6 @@
+[book]
+authors = ["Glass Community"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Glass Docs"
